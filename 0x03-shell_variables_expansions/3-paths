@@ -1,2 +1,2 @@
 #!/bin/bash
-eecho $PATH|tr':''\n'|wc-|
+eecho $PATH|tr':''\n'|wc-||
