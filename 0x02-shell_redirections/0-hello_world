@@ -1,2 +1,4 @@
 #!/bin/bash
-echo 'Hello, World'
+echo "Hello, World"
+find . -type d -mindpeth 1 -not -name '.' | wc -l
+
